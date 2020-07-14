@@ -8,7 +8,7 @@ Market data, the most important is real-time and effectiveness. Meanwhile, marke
 
 The exchange is a public matching platform between buyers and sellers. The buyer and seller submit the required/available quantity of goods and the price they are willing to offer/accept to the exchange.
 
-![Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled.png](Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled.png)
+
 
 ### Websocket Presentation
 
@@ -81,11 +81,11 @@ Received: 4
 Websocket closed
 ```
 
-![Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled%201.png](Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled%201.png)
+
 
 ## Crawler module
 
-![Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled%202.png](Page%202%2011b23d99c32244caa996ecaf681404f1/Untitled%202.png)
+
 
 ```python
 import copy
